@@ -1,2 +1,2 @@
 # ksea_uiuc
-kseaWebsite
+working directory of ksea website
